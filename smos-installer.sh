@@ -116,6 +116,6 @@ done
 
 
 
-   printf "\n\n WE HOPE THIS INSTALLER HELPED YOU\n"
-   printf "PLEASE MINE ON http://EASYPOOL.ROCKS for the best rewards"
+   printf "\nWE HOPE THIS INSTALLER HELPED YOU\n "
+   printf "\nPLEASE MINE ON http://EASYPOOL.ROCKS for the best rewards\n "
 
