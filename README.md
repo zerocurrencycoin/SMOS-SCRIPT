@@ -5,7 +5,10 @@ SMOS REQUIREMENTS: 4GB RAM (8GB is BETTER) and 8GB+ USB STICK (or SSD/HDD) for t
 ZERO NVIDIA SUPPORT: 1070 / 1070ti / 1080 / 1080ti / 1060 6GB (only)
 ZERO AMD 8GB SUPPORT: RX470 / RX480 / RX570 / RX580
 ZERO AMD 4GB SUPPORT (SLOWER): RX460 / RX470 / RX480 / RX560 / RX570 / RX580
+
 * It is recommended a minimum of 2 cards and a maximim of 8 cards per RIG!
+..
+..
 #1 Download SMOS OPERATING SYSTEM HERE!
 #2 Download and install ETCHER USB/SSD Writer!
 #3 (4GB AMD ONLY) Download and install PUTTY!
